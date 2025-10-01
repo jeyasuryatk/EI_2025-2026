@@ -8,10 +8,21 @@ A modular Java project demonstrating six core design patterns—Strategy, Observ
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Project Structure
 
-**Jeyasurya**  
-Disciplined, analytical, and passionate about code quality, design patterns, and visual documentation—especially in educational and aerospace contexts.
+src/
+├── behavioral/
+│   ├── StrategyDemo.java
+│   └── ObserverDemo.java
+├── creational/
+│   ├── FactoryDemo.java
+│   └── SingletonDemo.java
+├── structural/
+│   ├── DecoratorDemo.java
+│   └── AdapterDemo.java
+
+
+
 
 ---
 
