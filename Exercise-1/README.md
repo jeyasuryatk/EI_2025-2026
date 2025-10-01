@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A brief description of what this project does 
 # Design Patterns in Java
 
 A modular Java project demonstrating six core design patterns—Strategy, Observer, Factory, Singleton, Decorator, and Adapter—contextualized for aerospace-grade 3D printing. Built for educational clarity, maintainability, and real-world relevance.
